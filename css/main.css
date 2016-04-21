@@ -1,5 +1,112 @@
-*{outline: 1px solid rgba(255,0,0,0.2);}
 
+/**{outline:1px solid rgba(255,0,0,1);}*/
+.header{
+	height: 80px;
+}
+.header img{
+	width: 80px;
+	margin-left: 40px;
+}
+.menu{
+	padding-top: 50px;
+}
+.menu li{
+	display: inline-block;
+	border-right: 1px solid #ccc;
+	font-size: 12px;
+
+}
+.menu a{
+	text-decoration: none;
+	color: #ccc;
+	margin: 20px;
+}
+
+.semilla{
+	background: url("../img/semilla.jpg") no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 200px;
+	background-position: center;
+}
+.contenido{
+	background-color: #f2f2f2;
+	padding: 5%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.contenido p{
+	color: #4D4D4D;
+}
+.nosotros{
+	text-align: center;
+	padding: 5%;
+	margin: 30px;
+}
+.metodo img{
+	width: 470px;
+	height: 306px;
+}
+.verde{
+	background: url("../img/fondo.jpg");
+	padding: 5%;
+	text-align: center;
+
+}
+.verde h1{
+	color: #fff;
+}
+.verde p{
+	color: #fff;
+}
+.metodo .verde{
+	padding: 0;
+}
+.servicios{
+	text-align: center;
+	margin-top: 40px;
+}
+h1{
+	margin-bottom: 20px;
+}
+p{
+	margin-bottom: 40px;
+}
+h3{
+	color: white;
+}
+.servicios img{
+	margin-right: 30px;
+}
+.proyectos{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	background-color: #5E8039;
+	color: white;
+}
+.proyectos img{
+	max-width: 100%;
+	margin-bottom: 10px;
+}
+.proyectos h3{
+	padding-left: 15px;
+}
+.descripcion{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 13px;
+}
+.servicios h1{
+	margin-bottom: 20px;
+}
+.servicios p{
+	margin-bottom: 20px;
+}
+h4{
+	color: #5E8039;
+	font-size: 18px;
+	margin-bottom: 15px;
+}
 
 #equipo{
 	text-align: center;
@@ -25,7 +132,7 @@ h2{
 	margin: 5px;
 }
 #blog{
-	background: url("img/fondo2.jpg");
+	background: url("../img/fondo2.jpg");
 	background-size: contain; 
 }
 .proyectos{
@@ -36,8 +143,6 @@ h2{
 	width: 280px;
 	height: 200px;
 }
-
-
 
 
 
@@ -77,11 +182,6 @@ h2{
 	right: 20px;
 	bottom: 10px;
 }
-
-
-
-
-
 
 
 
