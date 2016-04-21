@@ -1,5 +1,5 @@
 /* Inserta tu codigo aqui */
-* {outline:1px solid rgba(255,0,0,1);}
+*/* {outline:1px solid rgba(255,0,0,1);}*/
 .header{
 	height: 80px;
 }
@@ -67,7 +67,10 @@ p{
 	margin-right: 30px;
 }
 .proyectos{
-	background-color: green;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	background-color: #5E8039;
+	color: white;
 }
 .proyectos img{
 	max-width: 100%;
