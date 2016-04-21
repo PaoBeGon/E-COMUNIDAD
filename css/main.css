@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 
-*{outline:1px solid rgba(255,0,0,1);}
-
-=======
 /* Inserta tu codigo aqui */
 /* {outline:1px solid rgba(255,0,0,1);}*/
->>>>>>> 3c20f4ef85178da1f16abc1557d54340d23a7cf3
 .header{
 	height: 80px;
 }
@@ -154,9 +149,6 @@ h4{
 	width: 280px;
 	height: 200px;
 }
-
-
-
 #contacto{
 	background: #343431;
 }
@@ -177,7 +169,6 @@ h4{
 	color: #FFFFFF;
 	width: 160px;
 	height: 160px;
-
 }
 .perfiles span{
 	font-family: Courier;
@@ -208,5 +199,3 @@ h4{
 .lab{
 	color: #F9D74D;
 }
-
-
