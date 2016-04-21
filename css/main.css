@@ -1,5 +1,5 @@
 /* Inserta tu codigo aqui */
-* {outline:1px solid rgba(255,0,0,1);}
+*/* {outline:1px solid rgba(255,0,0,1);}*/
 .header{
 	height: 80px;
 }
@@ -56,19 +56,37 @@
 .servicios{
 	text-align: center;
 	margin-top: 40px;
-}
-h1{
-	margin-bottom: 20px;
-}
-p{
-	margin-bottom: 40px;
+	font-size: 13px;
 }
 .servicios img{
+	width: 140px;
+	height: 140px;
+	margin-top: 50px;
 	margin-right: 30px;
 }
 .proyectos{
-	background-color: green;
+	padding: 50px 7px 30px 5px;
+	background-color: #5E8039;
+	color: white;
+	margin-top: 50px;
 }
 .proyectos img{
 	max-width: 100%;
+	margin-bottom: 10px;
+}
+.descripcion{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 13px;
+}
+.servicios h1{
+	margin-bottom: 20px;
+}
+.servicios p{
+	margin-bottom: 20px;
+}
+h4{
+	color: #5E8039;
+	font-size: 18px;
+	margin-bottom: 15px;
 }
