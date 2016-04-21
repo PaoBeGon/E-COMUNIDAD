@@ -107,3 +107,97 @@ h4{
 	font-size: 18px;
 	margin-bottom: 15px;
 }
+
+#equipo{
+	text-align: center;
+	padding: 50px;
+}
+h2{
+	text-align: left;
+	color: #1D6F0E;
+}
+.foto-coder{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	margin-bottom: 30px;
+}
+.iconos{
+	margin: 20px;
+	padding: 10px; 
+}
+.redes{
+	width: 25px;
+	height: 25px;
+	margin: 5px;
+}
+#blog{
+	background: url("../img/fondo2.jpg");
+	background-size: contain; 
+}
+.proyectos{
+	width: 280px;
+	display: inline-block;
+}
+.blogger{
+	width: 280px;
+	height: 200px;
+}
+
+
+
+#contacto{
+	background: #343431;
+}
+.contact{
+	background: #343431;
+	padding: 40px;
+
+}
+.list-contact{
+	display: inline;
+	width: 100px;
+	height: 100px;
+}
+.perfiles{
+	list-style: none;
+	display: inline;	
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	width: 160px;
+	height: 160px;
+
+}
+.perfiles span{
+	font-family: Courier;
+	font-size: 14px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.small{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	right: 20px;
+	bottom: 10px;
+}
+
+
+
+#pie-pagina{
+	background-color: #F7F9F7;
+}
+.pie{
+	background-color: #F7F9F7;
+	padding: 50px;
+	font-size: 13px;
+	color: #484948;
+}
+.derecha{
+	text-align: right;
+}
+.lab{
+	color: #F9D74D;
+}
+
