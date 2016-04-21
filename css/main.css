@@ -1,5 +1,6 @@
 
-/**{outline:1px solid rgba(255,0,0,1);}*/
+*{outline:1px solid rgba(255,0,0,1);}
+
 .header{
 	height: 80px;
 }
@@ -112,7 +113,7 @@ h4{
 	text-align: center;
 	padding: 50px;
 }
-h2{
+#equipo h2{
 	text-align: left;
 	color: #1D6F0E;
 }
@@ -121,6 +122,9 @@ h2{
 	height: 200px;
 	border-radius: 100%;
 	margin-bottom: 30px;
+}
+#equipo h3{
+	color: #000000;
 }
 .iconos{
 	margin: 20px;
@@ -135,7 +139,10 @@ h2{
 	background: url("../img/fondo2.jpg");
 	background-size: contain; 
 }
-.proyectos{
+#blog h3{
+	color: #000000;
+}
+.proyect{
 	width: 280px;
 	display: inline-block;
 }
