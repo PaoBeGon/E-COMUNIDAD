@@ -74,6 +74,9 @@
 	max-width: 100%;
 	margin-bottom: 10px;
 }
+.proyectos h3{
+	padding-left: 15px;
+}
 .descripcion{
 	padding-top: 50px;
 	text-align: center;
