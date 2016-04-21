@@ -1,5 +1,4 @@
 /* Inserta tu codigo aqui */
-<<<<<<< HEAD
 * {outline:1px solid rgba(255,0,0,1);}
 .header{
 	height: 80px;
@@ -42,8 +41,8 @@
 	margin: 30px;
 }
 .metodo img{
-	max-width: 100%;
-	max-height: 100%;
+	width: 470px;
+	height: 306px;
 }
 .verde{
 	background: url("../img/fondo.jpg");
@@ -53,7 +52,7 @@
 }
 .metodo .verde{
 	padding: 0;
-=======
+}
 .servicios{
 	text-align: center;
 	margin-top: 40px;
@@ -72,5 +71,4 @@ p{
 }
 .proyectos img{
 	max-width: 100%;
->>>>>>> ad2e75c7b70fd2939b2b392f0f44c3d340fd0b38
 }
