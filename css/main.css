@@ -35,6 +35,9 @@
 	padding-left: 20%;
 	padding-right: 20%;
 }
+.contenido p{
+	color: #4D4D4D;
+}
 .nosotros{
 	text-align: center;
 	padding: 5%;
@@ -50,6 +53,12 @@
 	text-align: center;
 
 }
+.verde h1{
+	color: #fff;
+}
+.verde p{
+	color: #fff;
+}
 .metodo .verde{
 	padding: 0;
 }
@@ -62,6 +71,9 @@ h1{
 }
 p{
 	margin-bottom: 40px;
+}
+h3{
+	color: white;
 }
 .servicios img{
 	margin-right: 30px;
