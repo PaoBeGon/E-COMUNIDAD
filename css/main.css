@@ -146,7 +146,7 @@ h4{
 #blog{
 	background: url("../img/fondo2.jpg");
 	background-size: contain;
-	padding: 50px; 
+	padding: 50px 10px; 
 }
 #blog h3{
 	color: #000000;
