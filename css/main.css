@@ -21,13 +21,13 @@
 	color: #ccc;
 	margin: 20px;
 }
-
 .semilla{
 	background: url("../img/semilla.jpg") no-repeat;
 	background-size: cover;
 	position: relative;
 	height: 200px;
 	background-position: center;
+	margin-right: -14px;
 }
 .contenido{
 	background-color: #f2f2f2;
@@ -43,21 +43,20 @@
 }
 .nosotros{
 	text-align: center;
-	padding: 5%;
-	margin: 30px;
 }
 .nosotros p{
 	color: #4D4D4D;
 }
 .metodo img{
-	width: 470px;
-	height: 306px;
+	width: 631.5px;
+	height: 406px;
 }
 .verde{
 	background: url("../img/fondo.jpg");
 	padding: 5%;
 	text-align: center;
-
+	width: 631.5px;
+	height: 406px;
 }
 .verde h1{
 	color: #fff;
