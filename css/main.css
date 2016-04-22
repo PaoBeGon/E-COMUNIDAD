@@ -1,5 +1,7 @@
 
+/*
 *{outline:1px solid rgba(255,0,0,1);}
+*/
 
 .header{
 	height: 80px;
@@ -145,23 +147,30 @@ h4{
 #blog{
 	background: url("../img/fondo2.jpg");
 	background-size: contain;
-	padding: 50px 10px; 
+	padding: 60px 20px; 
+}
+.blog{
+	margin: 0px;
 }
 #blog h3{
 	color: #000000;
 	margin-bottom: 5px;
 }
-.blog{
-	margin-left: 0px;
+.ir-izquierda{
+	position: relative;
+	top: 145px;
+	left: 50px;
 }
-
-
+.ir-derecha{
+	position: relative;
+	top: 145px;
+	right: 5px;
+}
 .proyect{
-	width: 200px;
-	height: 250px;
+	width: 250px;
 	display: inline-block;
-	margin-left: 45px;
-	margin-right: 30px;
+	margin-left: 38px;
+	margin-right: 38px;
 }
 .blogger{
 	width: 100%;
@@ -174,56 +183,34 @@ h4{
 .proyect p{
 	margin-bottom: 20px;
 }
-
-
-
-
 #contacto{
-	background: #343431;
-}
-.contacto{
-	margin-left: 0px;
-}
-.contact{
-	padding: 20px;
-	margin: auto 0;
+	background: #5E5D5D;
+	padding: 60px;
 }
 .list-contact{
-	display: inline-block;
-	width: 100px;
-	height: 100px;
-
-}
-.perfiles{
-	list-style: none;
-	display: inline;	
+	width: 100%;
+	display: table;
 	border: 1px solid #FFFFFF;
-	color: #FFFFFF;
-	width: 100px;
-	height: 100px;
-	position: relative;
-	width: 160px;
-	height: 160px;
 }
-.perfiles span{
-	font-family: Courier;
-	font-size: 14px;
-	position: relative;
-	top: 10px;
-	left: 10px;
+.list-contact li{
+	display: table-cell;
+	border-right: 1px solid #FFF;
+	width: 160px;
+	height: 250px;
+	margin-bottom: 0px;
+}
+.list-contact p{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #FFFFFF;
+	padding: 20px;
+	margin-bottom: 110px;
 }
 .small{
-	width: 30px;
-	height: 30px;
-	position: relative;
-	right: 20px;
-	bottom: 10px;
-	position: relative;
+	width: 50px;
+	height: 50px;
+	margin-left: 150px;
 }
-
-
-
-
 #pie-pagina{
 	background-color: #F7F9F7;
 }
