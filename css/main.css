@@ -115,7 +115,7 @@ h4{
 
 #equipo{
 	text-align: center;
-	padding: 50px;
+	padding: 60px;
 }
 #equipo h2{
 	text-align: left;
@@ -126,8 +126,8 @@ h4{
 	margin-left: 0px;
 }
 .foto-coder{
-	width: 190px;
-	height: 210px;
+	width: 200px;
+	height: 200px;
 	border-radius: 100%;
 	margin-bottom: 20px;
 }
@@ -197,7 +197,7 @@ h4{
 	display: table-cell;
 	border-right: 1px solid #FFF;
 	width: 160px;
-	height: 250px;
+	height: 160px;
 	margin-bottom: 0px;
 }
 .list-contact p{
@@ -217,7 +217,7 @@ h4{
 }
 .pie{
 	background-color: #F7F9F7;
-	padding: 50px;
+	padding: 70px;
 	font-size: 13px;
 	color: #484948;
 	margin-left: 0px;
@@ -228,7 +228,6 @@ h4{
 .lab{
 	color: #F9D74D;
 }
-
 
 
 
