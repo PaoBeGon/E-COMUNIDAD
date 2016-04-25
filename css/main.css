@@ -21,7 +21,7 @@
 .menu a{
 	text-decoration: none;
 	color: #ccc;
-	margin: 20px;
+	margin: 30px;
 }
 .semilla{
 	background: url("../img/semilla.jpg") no-repeat;
@@ -46,21 +46,20 @@
 }
 .nosotros{
 	text-align: center;
+	padding-top: 70px;
 }
 
 .nosotros p{
 	color: #4D4D4D;
 }
 .metodo img{
-	width: 631.5px;
-	height: 406px;
+	width: 617.5px;
+	height: 384px;
+	margin-left: -15px;
+	margin-bottom: -4px;
 }
 .verde{
 	background: url("../img/fondo.jpg");
-	padding: 5%;
-	text-align: center;
-	width: 631.5px;
-	height: 406px;
 }
 .verde h1{
 	color: #fff;
@@ -68,8 +67,9 @@
 .verde p{
 	color: #fff;
 }
-.metodo .verde{
-	padding: 0;
+.concepto{
+	text-align: center;
+	padding-top: 100px;
 }
 .servicios{
 	text-align: center;
